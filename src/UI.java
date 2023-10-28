@@ -3,13 +3,11 @@ import chess.ChessPiece;
 import chess.ChessPosition;
 import chess.Color;
 
-import java.io.Console;
 import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 import java.lang.System;
-import java.util.stream.Collectors;
 
 public class UI {
 
